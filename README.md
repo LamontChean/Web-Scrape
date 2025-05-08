@@ -1,5 +1,3 @@
-Here’s a more focused version of the `README.md` to describe the core aspects of your project, specifically detailing the functionality and purpose of the code:
-
 ---
 
 # Web Scraping with Parallelism
