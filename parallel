@@ -1,0 +1,4 @@
+<script>start("/Users/adft010-rd/Documents/OwnProject/parallel/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("main.py","main.py",0,1191,"1.2 kB",1746682492,"08/05/2025, 13:34:52");</script>
+<script>addRow("webscrape.py","webscrape.py",0,1540,"1.5 kB",1746684836,"08/05/2025, 14:13:56");</script>
